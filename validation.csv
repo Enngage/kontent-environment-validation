@@ -1,10 +1,10 @@
-"Issue type","Item","language","Element","Messages"
-"variant_issue","features_of_communication","default","pieces__slides_",
-"variant_issue","first_impression","default","pieces__slides_",
-"variant_issue","body_language","default","short_summary",
-"variant_issue","the_art_of_presentation","german","select_chapters",
-"variant_issue","new_module","german","select_chapters",
-"variant_issue","an_introduction_to_our_vision","Austrian","title",
-"variant_issue","an_introduction_to_our_vision","Austrian","body",
-"variant_issue","n4_phases_of_a_tricky_conversation","Austrian","title",
-"variant_issue","basics_of_communication","Austrian","title",
+"Issue type","Item","language","Element","Message"
+"variant_issue","features_of_communication","default","pieces__slides_","Element 'Pieces (slides)' references a non-existent content item b0dfc4ea-2cda-4a20-8606-6727f5d5aeb5."
+"variant_issue","first_impression","default","pieces__slides_","Element 'Pieces (slides)' references a non-existent content item b0dfc4ea-2cda-4a20-8606-6727f5d5aeb5."
+"variant_issue","body_language","default","short_summary","Element 'Short summary' contains a content link referencing a non-existent content item 50e41672-a11f-481f-a845-5eac781b963d."
+"variant_issue","the_art_of_presentation","german","select_chapters","Element 'Select chapters' references a non-existent content item ca5ebf89-0195-4b0e-bf25-99f12291cd6f.& Element 'Select chapters' references a non-existent content item c61c48e2-ebb4-4e0d-9530-00d2c2e86190."
+"variant_issue","new_module","german","select_chapters","Element 'Select chapters' references a non-existent content item c61c48e2-ebb4-4e0d-9530-00d2c2e86190."
+"variant_issue","an_introduction_to_our_vision","Austrian","title","Element 'Title' is required but has no value."
+"variant_issue","an_introduction_to_our_vision","Austrian","body","'Module' content block within element 'Body' contains the following error: 'Element 'Title' is required but has no value.'"
+"variant_issue","n4_phases_of_a_tricky_conversation","Austrian","title","Element 'Title' is required but has no value."
+"variant_issue","basics_of_communication","Austrian","title","Element 'Title' is required but has no value."
