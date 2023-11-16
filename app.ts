@@ -71,7 +71,7 @@ const run = async () => {
       { id: "item", title: "Item" },
       { id: "language", title: "language" },
       { id: "element", title: "Element" },
-      { id: "messages", title: "Messages" },
+      { id: "message", title: "Message" },
     ];
 
     const csvWriter = createObjectCsvWriter({
